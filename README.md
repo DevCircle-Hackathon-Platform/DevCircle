@@ -33,7 +33,7 @@ DevCircle/
 │   ├── public/           # Static assets
 │   ├── src/              # Components, Pages, Layouts, Utils
 │   ├── .env.example      # Sample frontend env
-│   └── package.json
+│   └── package.json      #package
 │
 ├── README.md             # Project Documentation
 └── LICENSE               # Open Source License (to be added)
